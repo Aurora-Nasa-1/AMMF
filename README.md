@@ -6,7 +6,7 @@
 </div>
 
 **新版本: [AMMF2](https://github.com/Aurora-Nasa-1/AMMF2)**
-
+**[Telegram](https://t.me/AuroraNasaModule)**
 # 🚀 快速开始
 
 欢迎使用本模块框架！以下是快速开始的步骤：
