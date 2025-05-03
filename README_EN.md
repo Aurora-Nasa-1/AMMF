@@ -7,6 +7,8 @@
 
 **New Version: [AMMF2](https://github.com/Aurora-Nasa-1/AMMF2)**
 
+**[Telegram](https://t.me/AuroraNasaModule)**
+
 # 🚀 Quick Start
 
 Welcome to use this module framework! Here are the steps to get started:
